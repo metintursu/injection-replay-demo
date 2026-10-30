@@ -70,3 +70,8 @@ These numbers are optimistic. The noise is a clean bell curve and the faults are
 ## License
 
 MIT
+
+## Open-data check
+
+Exploratory test on a public labeled dataset (ProBayes, CC BY 4.0): see [open-data-check/RESULTS.md](open-data-check/RESULTS.md). First hint only, not evidence for any factory.
+

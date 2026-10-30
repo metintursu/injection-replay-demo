@@ -3,3 +3,5 @@ data.json
 real/
 private/
 .env
+*.parquet
+open-data-check/features.parquet
